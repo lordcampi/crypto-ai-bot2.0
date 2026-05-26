@@ -1,1 +1,7 @@
-python model.py
+python-telegram-bot
+requests
+pandas
+numpy
+scikit-learn
+ta
+joblib
